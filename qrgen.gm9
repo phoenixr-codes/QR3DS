@@ -1,0 +1,3 @@
+set USERINPUT "http://3ds.guide/"
+input "Enter the data" USERINPUT
+qr "$[USERINPUT]" "$[USERINPUT]"
